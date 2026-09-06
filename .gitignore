@@ -1,0 +1,17 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+.vscode/
+.idea/
+*.swp
+*~
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+pm-jobsearch-summary-*.pdf
+*.local.md
